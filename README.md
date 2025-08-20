@@ -4,6 +4,8 @@
 
 Este proyecto realiza un **análisis exploratorio de datos (EDA)** sobre un dataset relacionado con las **Infecciones Respiratorias Agudas (IRA)** en Perú, el cual es gestionado por el **Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC Perú)**. El dataset contiene información sobre los casos notificados de IRA desde el año 2000 hasta el 2023, desglosados por diferentes características geográficas, demográficas y de salud, como región, provincia, edad, tipo de diagnóstico y más.
 
+**Dataset**: https://datosabiertos.gob.pe/dataset/vigilancia-epidemiologica-de-infecciones-respiratoiras-agudas-ira
+
 ## Objetivos
 
 - **Explorar y limpiar los datos** para prepararlos para análisis posteriores.
