@@ -1,4 +1,5 @@
 # Análisis Exploratorio de Datos (EDA) de Infecciones Respiratorias Agudas (IRA) en Perú: Vigilancia Epidemiológica (2000-2023)
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/fef27444-bfac-46f2-bfa8-33044edf19a4" />
 
 ## Descripción del Proyecto
 
